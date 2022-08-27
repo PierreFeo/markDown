@@ -11,4 +11,5 @@ class NotificationsViewModel : ViewModel() {
     }
     val text: LiveData<String> = _text
     val test = "test"
+    val test1 = "sss"
 }
